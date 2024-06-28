@@ -7,6 +7,7 @@ public class scannerDenem {
         Scanner scanner =new Scanner(System.in);
 
         String name,surName;
+        int yas;
         System.out.println("Lütfen adınızı giriniz: ");
         name = scanner.nextLine();
         System.out.println("Lütfen soyadınız giriniz: ");
