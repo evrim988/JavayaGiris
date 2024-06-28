@@ -16,5 +16,7 @@ public class Main {
 
         toplam = sayi1 + sayi2;
         System.out.println("Girilen iki sayının toplamı: " + toplam);
+
+        System.out.println("commit");
     }
 }
