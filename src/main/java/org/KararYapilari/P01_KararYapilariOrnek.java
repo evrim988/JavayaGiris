@@ -2,7 +2,7 @@ package org.KararYapilari;
 
 public class P01_KararYapilariOrnek {
 	public static void main(String[] args) {
-		
+
 		int yas = 25;
 		if (yas > 0 && yas < 18) {
 			System.out.println("Bu içeriğe erişiminiz yok");
@@ -13,5 +13,6 @@ public class P01_KararYapilariOrnek {
 		else {
 			System.out.println("Bu içerik sizin yaş grubunuza yönelik değildir.");
 		}
+
 	}
 }
