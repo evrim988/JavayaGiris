@@ -1,4 +1,4 @@
-package org.diziler;
+package org.diziler.day01;
 
 public class DizilerTeorik {
     public static void main(String[] args) {

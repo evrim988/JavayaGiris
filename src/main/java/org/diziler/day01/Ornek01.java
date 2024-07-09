@@ -1,4 +1,4 @@
-package org.diziler;
+package org.diziler.day01;
 
 import java.util.Random;
 
