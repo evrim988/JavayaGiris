@@ -9,7 +9,7 @@ public class _01StringSinifi {
         // " " ile String nesnesi oluşturma
         String soyad = "Çalışkan";
         //bu yöntemle String'i kullanmak daha doğru. Genelde bu yöntem kullanılır.
-        //String sınıfı final keywordü içersen bir sınıftır. Final keyword u içeren bir sınıftan miraz alınamaz.
+        //String sınıfı final keywordü içersen bir sınıftır. Final keyword u içeren bir sınıftan miras alınamaz.
 
         //Mutable - Immutable
         // String sınıfı immutable bir sınıftır. Değiştirelemez demektir.
